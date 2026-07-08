@@ -1,10 +1,20 @@
-[![Factorio mod portal page](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2F###NAME###&style=for-the-badge)](https://mods.factorio.com/mod/###NAME###)
-[![Crowdin translate](https://img.shields.io/badge/Crowdin-Translate-cornflowerblue?style=for-the-badge)](https://crowdin.com/project/factorio-mods-localization)
-[![GitHub build status: CI](https://img.shields.io/github/actions/workflow/status/QuingKhaos/###NAME###/ci.yml?branch=main&label=CI&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/actions?query=workflow%3ACI)
-[![GitHub build status: Quality Assurance](https://img.shields.io/github/actions/workflow/status/QuingKhaos/###NAME###/qa.yml?branch=main&label=QA&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/actions?query=workflow%3A%22Quality+Assurance%22)
-[![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/###NAME###/bug?label=Bug%20Reports&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/###NAME###?label=Pull%20Requests&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/pulls)
+[![Factorio mod portal page](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Ffrozen-goodies-fulgora-coralmium-agriculture&style=for-the-badge)](https://mods.factorio.com/mod/frozen-goodies-fulgora-coralmium-agriculture)
+[![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/frozen-goodies-fulgora-coralmium-agriculture/bug?label=Bug%20Reports&style=for-the-badge)](https://github.com/QuingKhaos/frozen-goodies-fulgora-coralmium-agriculture/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/frozen-goodies-fulgora-coralmium-agriculture?label=Pull%20Requests&style=for-the-badge)](https://github.com/QuingKhaos/frozen-goodies-fulgora-coralmium-agriculture/pulls)
 
-# ###TITLE###
+# Frozen Goodies for Wooden Fulgora: Coralmium Agriculture
 
-###DESCRIPTION###
+Adds [frozen goodies](https://mods.factorio.com/mod/frozen-goodies) support to [Coralmium Agriculture](https://mods.factorio.com/mod/fulgora-coralmium-agriculture).
+
+## All my frozen goodies mods
+
+- [Frozen Goodies Base Assets][base-assets] - Base assets to dynamically create frozen goodies with layers.
+- [Frozen Goodies for Wooden Fulgora: Coralmium Agriculture][fulgora-coralmium-agriculture] - Adds frozen goodies support
+  to Coralmium Agriculture.
+- [Frozen Goodies for Lignumis][lignumis]: Adds frozen goodies support to Lignumis.
+- [Frozen Goodies Tweaks][tweaks]: Opinionated tweaks to Frozen Goodies.
+
+[base-assets]: https://mods.factorio.com/mod/frozen-goodies-base-assets
+[fulgora-coralmium-agriculture]: https://mods.factorio.com/mod/frozen-goodies-fulgora-coralmium-agriculture
+[lignumis]: https://mods.factorio.com/mod/frozen-goodies-lignumis
+[tweaks]: https://mods.factorio.com/mod/frozen-goodies-tweaks
